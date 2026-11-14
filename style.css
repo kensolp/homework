@@ -1,0 +1,22 @@
+
+/* Background color for all three pages */
+body {
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+}
+
+/* Page 1: Change font color */
+.page1-text {
+    color: darkblue;
+}
+
+/* Page 2: Add a border */
+.page2-border {
+    border: 2px solid black;
+    padding: 10px;
+}
+
+/* Page 3: Change font type */
+.page3-heading {
+    font-family: Georgia, serif;
+}
